@@ -6,9 +6,9 @@ public class SinglyLinkedList<T> {
 
     /** attributes **/
     //reference to head of the list (first node):
-    private ListNode head;
+    private Node head;
     //reference to tail of the list (last node):
-    private ListNode tail;
+    private Node tail;
     //size of the list as number of elements:
     private int size;
 
